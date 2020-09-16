@@ -1,4 +1,4 @@
-# README
+# My Favourite Vegan Restaurants
 
 https://aaron-project-website.netlify.app
 
