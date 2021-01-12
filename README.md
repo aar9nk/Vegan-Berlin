@@ -2,10 +2,6 @@
 
 ![](vegan-berlin.JPG)
 
-
-[![check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://aaron-project-website.netlify.app)
-
-
 ## Description
 
 The more advanced end of my react abilities allowed me to create a website which shows some of my favourite restaurants.
@@ -23,7 +19,7 @@ The more advanced end of my react abilities allowed me to create a website which
 Students who are interested to learn some real use cases for load on scroll effects, animations, declarative routing and using context in react!
 
 
- **🛠️ Commands**
+ ## 🛠️ Commands
  
  ` git clone https://github.com/aar9nk/Vegan-Berlin.git`
  
@@ -32,3 +28,7 @@ Students who are interested to learn some real use cases for load on scroll effe
  `npm install`
  
  `npm start`
+ 
+ ## Check it out!
+ 
+ https://aaron-project-website.netlify.app
